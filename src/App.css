@@ -10822,3 +10822,7 @@ textarea.form-control-lg {
   width: 200px;
   height: 180px;
 }
+.navbar{
+  position: sticky;
+  
+}
